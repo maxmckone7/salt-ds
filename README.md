@@ -4,6 +4,7 @@
 [![@salt-ds/lab](https://img.shields.io/npm/v/@salt-ds/lab.svg?label=@salt-ds/lab)](https://www.npmjs.com/package/@salt-ds/lab)
 [![@salt-ds/theme](https://img.shields.io/npm/v/@salt-ds/theme.svg?label=@salt-ds/theme)](https://www.npmjs.com/package/@salt-ds/theme)
 [![@salt-ds/icons](https://img.shields.io/npm/v/@salt-ds/icons.svg?label=@salt-ds/icons)](https://www.npmjs.com/package/@salt-ds/icons)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmaxmckone7%2Fsalt-ds.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmaxmckone7%2Fsalt-ds?ref=badge_shield)
 
 Salt provides you with a suite of UI components and a flexible theming system. With no customisation, the default theme offers an attractive and modern look-and-feel, with both light and dark variants and support for a range of UI densities.
 We have included a theming system which allows you to easily create theme variations, or in fact substitute alternate themes.
@@ -83,3 +84,7 @@ browsers, outlined in the table below.
 </a>
 
 Thanks to [Chromatic](https://www.chromatic.com/) for providing the visual testing platform that helps us review UI changes and catch visual regressions.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmaxmckone7%2Fsalt-ds.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmaxmckone7%2Fsalt-ds?ref=badge_large)
